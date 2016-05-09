@@ -1,5 +1,7 @@
 ul{ list-style: none; }
 
+input{ width: 55%; }
+
 .screen{ background: black; }
 .bordeado{ border-radius: 10px; padding: 1% 2%; }
 

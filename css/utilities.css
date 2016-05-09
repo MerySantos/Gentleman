@@ -12,19 +12,20 @@
 .mg-3{margin: 2%;}
 .ml-4{margin-left: 4%;}
 .text-granate{ color: #A52756 ; }
+.bg-granate{background: #A52756 ; border-radius: 1px solid #A52756;}
 .bg-plomo2{ background: #DDDEE8; }
 .bg-white{ background: #FFF; }
 .mg-10{ margin: 10%; }
 .bg-plomo3{ background: #2E2E2E; }
+.texto13{ font-size: 13px; }
+.texto20{ font-size: 20px; }
+.bg-black{background: black; border:2px solid black;}
+/*/Mis utilities*/
+
 /*.bg-p-oscuro{background: #000;}*/
 /*#A9446C*/
-
 /*#cad0cb plomo*/
-.pt-3{ 	padding-top: 5%; }
-.pb-3{ 	padding-bottom: 5%; }
-.pl-3{ 	padding-left: 5%; }
-.pr-3{ 	padding-right: 5%; }
-/*Fin mu*/
+
 strong { 
 	font-weight: 600; 
 }
@@ -53,6 +54,12 @@ strong {
 .mg-0{
 	margin: 0;
 }
+
+.pt-3{ 	padding-top: 5%; }
+.pb-3{ 	padding-bottom: 5%; }
+.pl-3{ 	padding-left: 5%; }
+.pr-3{ 	padding-right: 5%; }
+
 .w-100{
 	width: 100%;
 }
