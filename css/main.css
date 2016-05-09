@@ -1,0 +1,13 @@
+ul{ list-style: none; }
+
+.screen{ background: black; }
+.bordeado{ border-radius: 10px; padding: 1% 2%; }
+
+.separador{ max-height: 10px; margin-left:-14px;}
+
+
+.lista-imagenes{box-sizing:border-box; margin-left: 2%;}
+.lista-imagenes li{ width: 45.5% }
+
+.follow2 { font-size: 60px; }
+.circulo{  font-size: 20px;border-radius: 50%;border:1px dashed white; }
